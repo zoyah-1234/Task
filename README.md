@@ -88,9 +88,6 @@ server {
     }
 }
 7. docker-compose.yml
-yaml
-Copy
-Edit
 version: '3.8'
 
 services:
